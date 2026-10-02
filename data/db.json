@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "id": "usr_owner_1de2a543a30e",
+      "name": "Alpha Gym",
+      "phone": "+1 555-900-1111",
+      "password": "mySecretPass123",
+      "role": "owner",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "token": "tok_owner_6473afe057e0f27696ef138928fe8bfc",
+      "createdAt": "2026-09-30T15:37:51.870Z"
+    },
+    {
+      "id": "usr_owner_c372fe116428",
+      "name": "Apex Fitness Studio",
+      "phone": "+15557775986",
+      "password": "21ee1c4545def7514474e03ffcbbc07f:02f406e09617bfdd0563bd63041e06418013af0638e9c3515f98ee021552840804024bce319d18a2e0a280c230018b5fbcf4d24e719a427fa896ebcd64022d38",
+      "role": "owner",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "token": "tok_owner_900f2731ae4cb52db488d5b7596595c7",
+      "createdAt": "2026-09-30T17:32:06.464Z"
+    }
+  ],
+  "invitations": [
+    {
+      "code": "5XBKWQ",
+      "ownerId": "usr_owner_1de2a543a30e",
+      "createdAt": "2026-09-30T15:37:51.870Z",
+      "expiresAt": "2026-10-30T15:37:51.870Z",
+      "usedCount": 0
+    },
+    {
+      "code": "7L7MDK",
+      "ownerId": "usr_owner_c372fe116428",
+      "createdAt": "2026-09-30T17:32:06.464Z",
+      "expiresAt": "2026-10-30T17:32:06.464Z",
+      "usedCount": 0
+    }
+  ],
+  "conversations": [],
+  "messages": [],
+  "broadcasts": [
+    {
+      "id": "bc_d95295fa348f162d",
+      "ownerId": "usr_owner_1de2a543a30e",
+      "messageContent": "Alpha Gym announcement!",
+      "createdAt": "2026-09-30T15:37:51.878Z",
+      "recipientCount": 0,
+      "sentCount": 0,
+      "deliveredCount": 0,
+      "readCount": 0
+    }
+  ],
+  "mediaStore": []
+}

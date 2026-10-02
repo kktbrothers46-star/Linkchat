@@ -1,0 +1,6 @@
+{
+  "name": "LinkChat - Private Broadcast Messaging",
+  "description": "Private messages made simple. One-tap broadcast to individual private conversations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
